@@ -28,7 +28,7 @@ Wildfires pose a significant threat to humans, wildlife and the environment alik
 
 = Traditional Sensor Nodes
 
-A selection of low power sensors can be placed at high risk locations that can monitor temperature, humidity and other characteristics of air in the surrounding area. These systems generally use a microcontroller to operate sensors, relying on solar cells for long-term power. By setting up multiple such nodes in different areas forming a Wireless Sensor Network (WSN), the collected sensor data may then be analyzed to determine the locations of fire events @MohapatraAnkita2022EWDT. 
+A selection of low power sensors can be placed at high risk locations that can monitor temperature, humidity and other characteristics of air in the surrounding area. These systems generally use a microcontroller to operate sensors, relying on solar cells for long-term power. By setting up multiple such nodes in different areas forming a Wireless Sensor Network (WSN), the collected sensor data may then be analyzed to determine the locations of fire events @MohapatraAnkita2022EWDT. More advance methods of data classification with the use of artificial neural networks boast a high accuracy of >82% with multiple sensors @wsnfire.
 
 The low cost of WSN systems has made it an increasingly popular choice for real-time monitoring of forest fires. However, sensor nodes fail to be viable in some situations. Establishing wireless communications for a WSN can prove challenging in rural or untamed areas such as forests @Talaat2023. The sensor nodes may also be prone to damage from the wildfire, needing to be replaced in order to continue using the system. 
 
